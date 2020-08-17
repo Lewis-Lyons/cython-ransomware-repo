@@ -1,0 +1,28 @@
+import cythonRead_cy
+import cProfile
+import time
+
+pr = cProfile.Profile()
+pr.enable()
+
+x = 0
+
+if x < 10000:
+
+    file1 = open("test_file1.txt", 'wb')
+    pyrf = cythonRead_cy.PyReadFile()
+    pyrf.open_file()
+    file1.write(pyrf.read_in_file())
+    x+=1
+else: continue
+
+
+
+
+file1 = open("test_file1.txt", 'wb')
+pyrf = cythonRead_cy.PyReadFile()
+pyrf.open_file()
+file1.write(pyrf.read_in_file())
+
+pr.disable()
+pr.print_stats(sort='time')

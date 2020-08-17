@@ -1,0 +1,81 @@
+# Average Function Times Calculations (100 Files)
+
+File sizes = 1000000000bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 1286.2614 = 100%
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 630.3064 = 49.0%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} = 429.1430 = 33.4%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} = 193.1106 = 15.0%
+
+  Summed Function Time Contribution % = 97.4%
+
+File sizes = 100000000bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 138.0020
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 63.1416 = 45.7%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} = 50.0912 = 36.3%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} = 19.6506 = 14.2%
+
+  Summed Function Time Contribution % = 96.2%
+
+File sizes = 10000000bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 12.0734
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 7.2558 = 58.4%%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} = 0.7382 = 5.9%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} = 1.4000 = 11.3%
+
+  Summed Function Time Contribution % = 78.1%
+
+File sizes = 1000000bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 2.8798
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 0.6500 = 22.6%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} = 0.0586 = 2.0%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} = 0.1660 = 5.8%
+
+  Summed Function Time Contribution % = 30.4%
+
+File sizes = 100000bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 2.1284
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 0.0604 = 2.8%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} = 0.0086 = 0.4%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} = 0.0764 = 3.6%
+
+  Summed Function Time Contribution % = 6.8%
+
+File sizes = 10000bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 1.9754
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 0.0056 = 0.3%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} = 0.0044 = 0.2%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} = 0.0580 = 2.9%
+
+  Summed Function Time Contribution % = 3.4%
+
+File sizes = 1000bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 1.9868
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 0.0010 - 0.1%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} = 0.0046 = 0.2%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} =  0.0002 = 0.0%
+
+  Summed Function Time Contribution % = 0.3%
+
+File sizes = 100bytes, 100files ---------------
+
+  Average Time For Function Calls To Complete = 1.8518
+
+  Average Time For {method 'encrypt' of '_AES' objects} = 0.0010 = 0.1%
+  Average Time For {method 'read' of '_io.BufferedReader' objects} =  0.0052 = 0.3%
+  Average Time For {method 'write' of '_io.BufferedWriter' objects} = 0.0000 = 0.0%
+
+  Summed Function Time Contribution % = 0.4%

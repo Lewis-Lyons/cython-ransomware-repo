@@ -1,0 +1,1230 @@
+File sizes = 1000000000bytes ---------------
+
+  10230121 function calls (10227294 primitive calls) in 1341.537 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1525900  644.959    0.000  644.959    0.000 {method 'encrypt' of '_AES' objects}
+  1526000  458.872    0.000  458.872    0.000 {method 'read' of '_io.BufferedReader' objects}
+  1526100  201.941    0.000  201.941    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100   17.408    0.174 1331.834   13.318 crypy_py.py:335(encrypt_file)
+  100    8.993    0.090    8.993    0.090 {built-in method nt.remove}
+  1525900    5.998    0.000  650.957    0.000 blockalgo.py:187(encrypt)
+
+
+  10230111 function calls (10227284 primitive calls) in 1240.676 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1525900  609.188    0.000  609.188    0.000 {method 'encrypt' of '_AES' objects}
+  1526000  414.575    0.000  414.575    0.000 {method 'read' of '_io.BufferedReader' objects}
+  1526100  184.316    0.000  184.316    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100   16.607    0.166 1232.220   12.322 crypy_py.py:335(encrypt_file)
+  100    7.818    0.078    7.818    0.078 {built-in method nt.remove}
+  1525900    5.244    0.000  614.432    0.000 blockalgo.py:187(encrypt)
+
+
+  10230107 function calls (10227280 primitive calls) in 1235.366 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1525900  613.912    0.000  613.912    0.000 {method 'encrypt' of '_AES' objects}
+  1526000  408.609    0.000  408.609    0.000 {method 'read' of '_io.BufferedReader' objects}
+  1526100  181.570    0.000  181.570    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100   15.399    0.154 1225.730   12.257 crypy_py.py:335(encrypt_file)
+  100    8.561    0.086    8.561    0.086 {built-in method nt.remove}
+  1525900    4.175    0.000  618.087    0.000 blockalgo.py:187(encrypt)
+
+
+  10230122 function calls (10227295 primitive calls) in 1233.010 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1525900  605.050    0.000  605.050    0.000 {method 'encrypt' of '_AES' objects}
+  1526000  413.954    0.000  413.954    0.000 {method 'read' of '_io.BufferedReader' objects}
+  1526100  184.095    0.000  184.095    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100   15.022    0.150 1224.739   12.247 crypy_py.py:335(encrypt_file)
+  100    7.697    0.077    7.697    0.077 {built-in method nt.remove}
+  1525900    4.480    0.000  609.530    0.000 blockalgo.py:187(encrypt)
+
+
+  10230141 function calls (10227314 primitive calls) in 1380.718 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1525900  678.423    0.000  678.423    0.000 {method 'encrypt' of '_AES' objects}
+  1526000  449.705    0.000  449.705    0.000 {method 'read' of '_io.BufferedReader' objects}
+  1526100  213.631    0.000  213.631    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100   20.084    0.201 1370.884   13.709 crypy_py.py:335(encrypt_file)
+  100    8.500    0.085    8.500    0.085 {built-in method nt.remove}
+  1525900    6.518    0.000  684.942    0.000 blockalgo.py:187(encrypt)
+
+
+File sizes = 100000000bytes ---------------
+
+  1990336 function calls (1987509 primitive calls) in 142.254 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  152600   65.090    0.000   65.090    0.000 {method 'encrypt' of '_AES' objects}
+  152700   51.161    0.000   51.161    0.000 {method 'read' of '_io.BufferedReader' objects}
+  152800   19.144    0.000   19.144    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100    2.006    0.020  140.024    1.400 crypy_py.py:335(encrypt_file)
+  201    1.924    0.010    1.924    0.010 {built-in method io.open}
+  100    1.679    0.017    1.679    0.017 {built-in method nt.remove}
+  152600    0.496    0.000   65.586    0.000 blockalgo.py:187(encrypt)
+
+
+  1990350 function calls (1987523 primitive calls) in 141.187 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  152600   66.032    0.000   66.032    0.000 {method 'encrypt' of '_AES' objects}
+  152700   50.793    0.000   50.793    0.000 {method 'read' of '_io.BufferedReader' objects}
+  152800   19.387    0.000   19.387    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100    1.628    0.016  139.369    1.394 crypy_py.py:335(encrypt_file)
+  100    1.127    0.011    1.127    0.011 {built-in method nt.remove}
+  201    0.828    0.004    0.828    0.004 {built-in method io.open}
+  152600    0.545    0.000   66.578    0.000 blockalgo.py:187(encrypt)
+
+
+  1990315 function calls (1987488 primitive calls) in 143.583 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  152600   65.836    0.000   65.836    0.000 {method 'encrypt' of '_AES' objects}
+  152700   52.248    0.000   52.248    0.000 {method 'read' of '_io.BufferedReader' objects}
+  152800   20.644    0.000   20.644    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100    1.607    0.016  141.934    1.419 crypy_py.py:335(encrypt_file)
+  100    0.985    0.010    0.985    0.010 {built-in method nt.remove}
+  201    0.847    0.004    0.847    0.004 {built-in method io.open}
+  152600    0.577    0.000   66.413    0.000 blockalgo.py:187(encrypt)
+
+
+  1990317 function calls (1987490 primitive calls) in 131.493 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  152600   59.375    0.000   59.375    0.000 {method 'encrypt' of '_AES' objects}
+  152700   48.127    0.000   48.127    0.000 {method 'read' of '_io.BufferedReader' objects}
+  152800   19.539    0.000   19.539    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100    1.417    0.014  130.004    1.300 crypy_py.py:335(encrypt_file)
+  201    1.012    0.005    1.012    0.005 {built-in method io.open}
+  100    0.865    0.009    0.865    0.009 {built-in method nt.remove}
+  152600    0.405    0.000   59.780    0.000 blockalgo.py:187(encrypt)
+
+
+  1990317 function calls (1987490 primitive calls) in 131.493 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  152600   59.375    0.000   59.375    0.000 {method 'encrypt' of '_AES' objects}
+  152700   48.127    0.000   48.127    0.000 {method 'read' of '_io.BufferedReader' objects}
+  152800   19.539    0.000   19.539    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100    1.417    0.014  130.004    1.300 crypy_py.py:335(encrypt_file)
+  201    1.012    0.005    1.012    0.005 {built-in method io.open}
+  100    0.865    0.009    0.865    0.009 {built-in method nt.remove}
+  152600    0.405    0.000   59.780    0.000 blockalgo.py:187(encrypt)
+
+
+File sizes = 10000000bytes ---------------
+
+  1166545 function calls (1163718 primitive calls) in 12.427 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  15300    7.833    0.001    7.833    0.001 {method 'encrypt' of '_AES' objects}
+  15500    1.187    0.000    1.187    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  201    0.763    0.004    0.763    0.004 {built-in method io.open}
+  15400    0.584    0.000    0.584    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+  1166530 function calls (1163703 primitive calls) in 11.982 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  15300    6.989    0.000    6.989    0.000 {method 'encrypt' of '_AES' objects}
+  201    1.223    0.006    1.223    0.006 {built-in method io.open}
+  15500    1.201    0.000    1.201    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  15400    0.628    0.000    0.628    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+  1166506 function calls (1163679 primitive calls) in 11.837 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  15300    6.806    0.000    6.806    0.000 {method 'encrypt' of '_AES' objects}
+  15500    1.575    0.000    1.575    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  15400    0.986    0.000    0.986    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+  1166523 function calls (1163696 primitive calls) in 11.896 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  15300    7.452    0.000    7.452    0.000 {method 'encrypt' of '_AES' objects}
+  15500    1.510    0.000    1.510    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  15400    0.702    0.000    0.702    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+  1166534 function calls (1163707 primitive calls) in 12.135 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  15300    7.199    0.000    7.199    0.000 {method 'encrypt' of '_AES' objects}
+  15500    1.527    0.000    1.527    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  15400    0.791    0.000    0.791    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+File sizes = 1000000bytes ---------------
+
+  1084345 function calls (1081518 primitive calls) in 2.897 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.860    0.004    0.860    0.004 {built-in method io.open}
+  1600    0.749    0.000    0.749    0.000 {method 'encrypt' of '_AES' objects}
+  100    0.281    0.003    2.094    0.021 crypy_py.py:335(encrypt_file)
+  1800    0.141    0.000    0.141    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100    0.102    0.001    0.102    0.001 {built-in method nt.remove}
+  28843    0.089    0.000    0.243    0.000 fnmatch.py:74(translate)
+  58916    0.089    0.000    0.130    0.000 ntpath.py:44(normcase)
+  129382    0.070    0.000    0.150    0.000 re.py:252(escape)
+  129382    0.065    0.000    0.065    0.000 {method 'translate' of 'str' objects}
+  29458    0.058    0.000    0.437    0.000 fnmatch.py:64(fnmatchcase)
+  201    0.052    0.000    0.052    0.000 {built-in method nt.stat}
+  1700    0.049    0.000    0.049    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1084319 function calls (1081492 primitive calls) in 3.336 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1600    1.064    0.001    1.064    0.001 {method 'encrypt' of '_AES' objects}
+  201    0.744    0.004    0.744    0.004 {built-in method io.open}
+  100    0.280    0.003    2.393    0.024 crypy_py.py:335(encrypt_file)
+  1800    0.213    0.000    0.213    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  201    0.183    0.001    0.183    0.001 {built-in method nt.stat}
+  100    0.146    0.001    0.146    0.001 {built-in method nt.remove}
+  58916    0.098    0.000    0.140    0.000 ntpath.py:44(normcase)
+  28843    0.081    0.000    0.203    0.000 fnmatch.py:74(translate)
+  1700    0.078    0.000    0.078    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1084316 function calls (1081489 primitive calls) in 2.727 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.730    0.004    0.730    0.004 {built-in method io.open}
+  1600    0.552    0.000    0.552    0.000 {method 'encrypt' of '_AES' objects}
+  1800    0.307    0.000    0.307    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  100    0.301    0.003    1.948    0.019 crypy_py.py:335(encrypt_file)
+  100    0.129    0.001    0.129    0.001 {built-in method nt.remove}
+  28843    0.082    0.000    0.244    0.000 fnmatch.py:74(translate)
+  129382    0.075    0.000    0.132    0.000 re.py:252(escape)
+  58916    0.065    0.000    0.107    0.000 ntpath.py:44(normcase)
+  253916    0.050    0.000    0.050    0.000 {built-in method builtins.isinstance}
+  1700    0.042    0.000    0.042    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1084337 function calls (1081510 primitive calls) in 2.788 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.739    0.004    0.739    0.004 {built-in method io.open}
+  1600    0.548    0.000    0.548    0.000 {method 'encrypt' of '_AES' objects}
+  201    0.282    0.001    0.282    0.001 {built-in method nt.stat}
+  100    0.244    0.002    1.738    0.017 crypy_py.py:335(encrypt_file)
+  1800    0.134    0.000    0.134    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  129382    0.115    0.000    0.183    0.000 re.py:252(escape)
+  100    0.115    0.001    0.115    0.001 {built-in method nt.remove}
+  28843    0.096    0.000    0.284    0.000 fnmatch.py:74(translate)
+  58916    0.069    0.000    0.116    0.000 ntpath.py:44(normcase)
+  1700    0.059    0.000    0.059    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1084311 function calls (1081484 primitive calls) in 2.661 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.813    0.004    0.813    0.004 {built-in method io.open}
+  1600    0.657    0.000    0.657    0.000 {method 'encrypt' of '_AES' objects}
+  100    0.173    0.002    1.882    0.019 crypy_py.py:335(encrypt_file)
+  1800    0.162    0.000    0.162    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  28843    0.137    0.000    0.259    0.000 fnmatch.py:74(translate)
+  100    0.136    0.001    0.136    0.001 {built-in method nt.remove}
+  129382    0.067    0.000    0.118    0.000 re.py:252(escape)
+  253916    0.066    0.000    0.066    0.000 {built-in method builtins.isinstance}
+  1700    0.065    0.000    0.065    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+File sizes = 100000bytes ---------------
+
+  1075933 function calls (1073106 primitive calls) in 2.014 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    1.061    0.005    1.061    0.005 {built-in method io.open}
+  100    0.129    0.001    1.324    0.013 crypy_py.py:335(encrypt_file)
+  100    0.115    0.001    0.115    0.001 {built-in method nt.remove}
+  28843    0.079    0.000    0.193    0.000 fnmatch.py:74(translate)
+  58916    0.064    0.000    0.099    0.000 ntpath.py:44(normcase)
+  129382    0.063    0.000    0.110    0.000 re.py:252(escape)
+  400    0.060    0.000    0.060    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  200    0.058    0.000    0.058    0.000 {method 'encrypt' of '_AES' objects}
+  253916    0.036    0.000    0.036    0.000 {built-in method builtins.isinstance}
+  129382    0.034    0.000    0.034    0.000 {method 'translate' of 'str' objects}
+  29458    0.033    0.000    0.383    0.000 fnmatch.py:64(fnmatchcase)
+  29458    0.031    0.000    0.513    0.000 fnmatch.py:19(fnmatch)
+  28843    0.028    0.000    0.331    0.000 fnmatch.py:38(_compile_pattern)
+  201    0.026    0.000    0.026    0.000 {built-in method nt.stat}
+  28843    0.022    0.000    0.095    0.000 re.py:271(_compile)
+  29458    0.020    0.000    0.020    0.000 {method 'match' of 're.Pattern' objects}
+  101    0.014    0.000    0.529    0.005 crypy_py.py:30(find_files)
+  566/283    0.012    0.000    0.026    0.000 sre_parse.py:475(_parse)
+  28843    0.011    0.000    0.106    0.000 re.py:232(compile)
+  59117    0.011    0.000    0.011    0.000 {method 'replace' of 'str' objects}
+  59220    0.009    0.000    0.009    0.000 {built-in method nt.fspath}
+  42675/41827    0.009    0.000    0.009    0.000 {built-in method builtins.len}
+  1    0.008    0.008    0.008    0.008 {built-in method nt.mkdir}
+  848/283    0.008    0.000    0.011    0.000 sre_compile.py:71(_compile)
+  300    0.007    0.000    0.007    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075911 function calls (1073084 primitive calls) in 2.021 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.839    0.004    0.839    0.004 {built-in method io.open}
+  100    0.282    0.003    1.285    0.013 crypy_py.py:335(encrypt_file)
+  129382    0.100    0.000    0.152    0.000 re.py:252(escape)
+  28843    0.082    0.000    0.237    0.000 fnmatch.py:74(translate)
+  200    0.079    0.000    0.079    0.000 {method 'encrypt' of '_AES' objects}
+  100    0.073    0.001    0.073    0.001 {built-in method nt.remove}
+  400    0.067    0.000    0.067    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  58916    0.064    0.000    0.135    0.000 ntpath.py:44(normcase)
+  201    0.051    0.000    0.051    0.000 {built-in method nt.stat}
+  59117    0.041    0.000    0.041    0.000 {method 'replace' of 'str' objects}
+  253916    0.039    0.000    0.039    0.000 {built-in method builtins.isinstance}
+  129382    0.036    0.000    0.036    0.000 {method 'translate' of 'str' objects}
+  29458    0.034    0.000    0.578    0.000 fnmatch.py:19(fnmatch)
+  29458    0.027    0.000    0.409    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.027    0.000    0.362    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.020    0.000    0.083    0.000 re.py:271(_compile)
+  29458    0.019    0.000    0.019    0.000 {method 'match' of 're.Pattern' objects}
+  101    0.017    0.000    0.596    0.006 crypy_py.py:30(find_files)
+  28843    0.010    0.000    0.093    0.000 re.py:232(compile)
+  58916    0.010    0.000    0.010    0.000 {method 'lower' of 'str' objects}
+  59220    0.010    0.000    0.010    0.000 {built-in method nt.fspath}
+  566/283    0.008    0.000    0.028    0.000 sre_parse.py:475(_parse)
+  300    0.008    0.000    0.008    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075946 function calls (1073119 primitive calls) in 2.054 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.960    0.005    0.960    0.005 {built-in method io.open}
+  100    0.320    0.003    1.430    0.014 crypy_py.py:335(encrypt_file)
+  400    0.083    0.000    0.083    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  28843    0.080    0.000    0.207    0.000 fnmatch.py:74(translate)
+  129382    0.065    0.000    0.123    0.000 re.py:252(escape)
+  58916    0.060    0.000    0.106    0.000 ntpath.py:44(normcase)
+  100    0.053    0.001    0.053    0.001 {built-in method nt.remove}
+  200    0.053    0.000    0.053    0.000 {method 'encrypt' of '_AES' objects}
+  253916    0.045    0.000    0.045    0.000 {built-in method builtins.isinstance}
+  28843    0.038    0.000    0.322    0.000 fnmatch.py:38(_compile_pattern)
+  129382    0.037    0.000    0.037    0.000 {method 'translate' of 'str' objects}
+  29458    0.034    0.000    0.514    0.000 fnmatch.py:19(fnmatch)
+  29458    0.031    0.000    0.374    0.000 fnmatch.py:64(fnmatchcase)
+  201    0.024    0.000    0.024    0.000 {built-in method nt.stat}
+  29458    0.021    0.000    0.021    0.000 {method 'match' of 're.Pattern' objects}
+  28843    0.020    0.000    0.061    0.000 re.py:271(_compile)
+  59220    0.013    0.000    0.013    0.000 {built-in method nt.fspath}
+  58916    0.013    0.000    0.013    0.000 {method 'lower' of 'str' objects}
+  101    0.012    0.000    0.530    0.005 crypy_py.py:30(find_files)
+  28843    0.012    0.000    0.072    0.000 re.py:232(compile)
+  59117    0.010    0.000    0.010    0.000 {method 'replace' of 'str' objects}
+  6800    0.009    0.000    0.017    0.000 random.py:256(choice)
+  300    0.007    0.000    0.007    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075954 function calls (1073127 primitive calls) in 2.389 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    1.147    0.006    1.147    0.006 {built-in method io.open}
+  100    0.400    0.004    1.692    0.017 crypy_py.py:335(encrypt_file)
+  100    0.146    0.001    0.146    0.001 {built-in method nt.remove}
+  28843    0.092    0.000    0.203    0.000 fnmatch.py:74(translate)
+  400    0.066    0.000    0.066    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  58916    0.061    0.000    0.094    0.000 ntpath.py:44(normcase)
+  200    0.060    0.000    0.060    0.000 {method 'encrypt' of '_AES' objects}
+  129382    0.057    0.000    0.108    0.000 re.py:252(escape)
+  129382    0.036    0.000    0.036    0.000 {method 'translate' of 'str' objects}
+  253916    0.035    0.000    0.035    0.000 {built-in method builtins.isinstance}
+  201    0.035    0.000    0.035    0.000 {built-in method nt.stat}
+  29458    0.030    0.000    0.483    0.000 fnmatch.py:19(fnmatch)
+  29458    0.029    0.000    0.359    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.029    0.000    0.311    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.019    0.000    0.065    0.000 re.py:271(_compile)
+  29458    0.019    0.000    0.019    0.000 {method 'match' of 're.Pattern' objects}
+  101    0.016    0.000    0.501    0.005 crypy_py.py:30(find_files)
+  300    0.011    0.000    0.011    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075932 function calls (1073105 primitive calls) in 2.164 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    1.190    0.006    1.190    0.006 {built-in method io.open}
+  100    0.158    0.002    1.529    0.015 crypy_py.py:335(encrypt_file)
+  400    0.106    0.000    0.106    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  28843    0.075    0.000    0.192    0.000 fnmatch.py:74(translate)
+  58916    0.064    0.000    0.131    0.000 ntpath.py:44(normcase)
+  129382    0.057    0.000    0.113    0.000 re.py:252(escape)
+  200    0.052    0.000    0.052    0.000 {method 'encrypt' of '_AES' objects}
+  100    0.048    0.000    0.048    0.000 {built-in method nt.remove}
+  29458    0.043    0.000    0.362    0.000 fnmatch.py:64(fnmatchcase)
+  253916    0.042    0.000    0.042    0.000 {built-in method builtins.isinstance}
+  201    0.040    0.000    0.040    0.000 {built-in method nt.stat}
+  59220    0.037    0.000    0.037    0.000 {built-in method nt.fspath}
+  129382    0.037    0.000    0.037    0.000 {method 'translate' of 'str' objects}
+  29458    0.028    0.000    0.521    0.000 fnmatch.py:19(fnmatch)
+  28843    0.028    0.000    0.300    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.019    0.000    0.065    0.000 re.py:271(_compile)
+  29458    0.018    0.000    0.018    0.000 {method 'match' of 're.Pattern' objects}
+  101    0.013    0.000    0.536    0.005 crypy_py.py:30(find_files)
+  59117    0.012    0.000    0.012    0.000 {method 'replace' of 'str' objects}
+  28843    0.011    0.000    0.076    0.000 re.py:232(compile)
+  300    0.010    0.000    0.010    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+File sizes = 10000bytes ---------------
+
+  1075323 function calls (1072496 primitive calls) in 1.928 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    1.040    0.005    1.040    0.005 {built-in method io.open}
+  100    0.159    0.002    1.288    0.013 crypy_py.py:335(encrypt_file)
+  28843    0.115    0.000    0.233    0.000 fnmatch.py:74(translate)
+  300    0.072    0.000    0.072    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  129382    0.063    0.000    0.115    0.000 re.py:252(escape)
+  58916    0.055    0.000    0.092    0.000 ntpath.py:44(normcase)
+  201    0.045    0.000    0.045    0.000 {built-in method nt.stat}
+  101    0.042    0.000    0.545    0.005 crypy_py.py:30(find_files)
+  100    0.040    0.000    0.040    0.000 {built-in method nt.remove}
+  129382    0.037    0.000    0.037    0.000 {method 'translate' of 'str' objects}
+  253916    0.035    0.000    0.035    0.000 {built-in method builtins.isinstance}
+  29458    0.029    0.000    0.500    0.000 fnmatch.py:19(fnmatch)
+  29458    0.028    0.000    0.380    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.024    0.000    0.334    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.018    0.000    0.060    0.000 re.py:271(_compile)
+  29458    0.018    0.000    0.018    0.000 {method 'match' of 're.Pattern' objects}
+  28843    0.011    0.000    0.071    0.000 re.py:232(compile)
+  59117    0.011    0.000    0.011    0.000 {method 'replace' of 'str' objects}
+  58916    0.011    0.000    0.011    0.000 {method 'lower' of 'str' objects}
+  59220    0.008    0.000    0.008    0.000 {built-in method nt.fspath}
+  42475/41627    0.006    0.000    0.006    0.000 {built-in method builtins.len}
+  566/283    0.005    0.000    0.016    0.000 sre_parse.py:475(_parse)
+  100    0.004    0.000    0.004    0.000 {method 'encrypt' of '_AES' objects}
+  200    0.004    0.000    0.004    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075332 function calls (1072505 primitive calls) in 1.989 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.968    0.005    0.968    0.005 {built-in method io.open}
+  100    0.260    0.003    1.304    0.013 crypy_py.py:335(encrypt_file)
+  28843    0.120    0.000    0.260    0.000 fnmatch.py:74(translate)
+  129382    0.080    0.000    0.135    0.000 re.py:252(escape)
+  58916    0.066    0.000    0.115    0.000 ntpath.py:44(normcase)
+  100    0.059    0.001    0.059    0.001 {built-in method nt.remove}
+  300    0.056    0.000    0.056    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  253916    0.044    0.000    0.044    0.000 {built-in method builtins.isinstance}
+  129382    0.037    0.000    0.037    0.000 {method 'translate' of 'str' objects}
+  29458    0.035    0.000    0.572    0.000 fnmatch.py:19(fnmatch)
+  29458    0.033    0.000    0.422    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.031    0.000    0.370    0.000 fnmatch.py:38(_compile_pattern)
+  201    0.024    0.000    0.024    0.000 {built-in method nt.stat}
+  28843    0.019    0.000    0.065    0.000 re.py:271(_compile)
+  29458    0.019    0.000    0.019    0.000 {method 'match' of 're.Pattern' objects}
+  59117    0.014    0.000    0.014    0.000 {method 'replace' of 'str' objects}
+  58916    0.014    0.000    0.014    0.000 {method 'lower' of 'str' objects}
+  101    0.012    0.000    0.586    0.006 crypy_py.py:30(find_files)
+  59220    0.011    0.000    0.011    0.000 {built-in method nt.fspath}
+  28843    0.010    0.000    0.075    0.000 re.py:232(compile)
+  42475/41627    0.008    0.000    0.008    0.000 {built-in method builtins.len}
+  6800    0.006    0.000    0.012    0.000 random.py:256(choice)
+  566/283    0.006    0.000    0.013    0.000 sre_parse.py:475(_parse)
+  100    0.006    0.000    0.006    0.000 {method 'encrypt' of '_AES' objects}
+  200    0.005    0.000    0.005    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075306 function calls (1072479 primitive calls) in 1.868 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    1.038    0.005    1.038    0.005 {built-in method io.open}
+  100    0.113    0.001    1.233    0.012 crypy_py.py:335(encrypt_file)
+  28843    0.087    0.000    0.226    0.000 fnmatch.py:74(translate)
+  129382    0.064    0.000    0.064    0.000 {method 'translate' of 'str' objects}
+  300    0.063    0.000    0.063    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  58916    0.060    0.000    0.099    0.000 ntpath.py:44(normcase)
+  129382    0.059    0.000    0.137    0.000 re.py:252(escape)
+  201    0.048    0.000    0.048    0.000 {built-in method nt.stat}
+  100    0.044    0.000    0.044    0.000 {built-in method nt.remove}
+  253916    0.037    0.000    0.037    0.000 {built-in method builtins.isinstance}
+  29458    0.031    0.000    0.386    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.029    0.000    0.337    0.000 fnmatch.py:38(_compile_pattern)
+  29458    0.028    0.000    0.513    0.000 fnmatch.py:19(fnmatch)
+  28843    0.020    0.000    0.068    0.000 re.py:271(_compile)
+  29458    0.019    0.000    0.019    0.000 {method 'match' of 're.Pattern' objects}
+  59117    0.013    0.000    0.013    0.000 {method 'replace' of 'str' objects}
+  101    0.010    0.000    0.525    0.005 crypy_py.py:30(find_files)
+  28843    0.010    0.000    0.078    0.000 re.py:232(compile)
+  58916    0.009    0.000    0.009    0.000 {method 'lower' of 'str' objects}
+  59220    0.009    0.000    0.009    0.000 {built-in method nt.fspath}
+  566/283    0.007    0.000    0.019    0.000 sre_parse.py:475(_parse)
+  100    0.007    0.000    0.007    0.000 {method 'encrypt' of '_AES' objects}
+  6800    0.006    0.000    0.014    0.000 random.py:256(choice)
+  6800    0.006    0.000    0.008    0.000 random.py:224(_randbelow)
+  200    0.004    0.000    0.004    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075319 function calls (1072492 primitive calls) in 1.977 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.783    0.004    0.783    0.004 {built-in method io.open}
+  100    0.248    0.002    1.099    0.011 crypy_py.py:335(encrypt_file)
+  129382    0.185    0.000    0.185    0.000 {method 'translate' of 'str' objects}
+  100    0.105    0.001    0.105    0.001 {built-in method nt.remove}
+  28843    0.089    0.000    0.374    0.000 fnmatch.py:74(translate)
+  129382    0.075    0.000    0.281    0.000 re.py:252(escape)
+  58916    0.071    0.000    0.122    0.000 ntpath.py:44(normcase)
+  300    0.049    0.000    0.049    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  253916    0.047    0.000    0.047    0.000 {built-in method builtins.isinstance}
+  28843    0.035    0.000    0.493    0.000 fnmatch.py:38(_compile_pattern)
+  29458    0.032    0.000    0.694    0.000 fnmatch.py:19(fnmatch)
+  6800    0.031    0.000    0.034    0.000 random.py:224(_randbelow)
+  29458    0.031    0.000    0.540    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.024    0.000    0.066    0.000 re.py:271(_compile)
+  201    0.022    0.000    0.022    0.000 {built-in method nt.stat}
+  59117    0.017    0.000    0.017    0.000 {method 'replace' of 'str' objects}
+  29458    0.016    0.000    0.016    0.000 {method 'match' of 're.Pattern' objects}
+  28843    0.015    0.000    0.081    0.000 re.py:232(compile)
+  101    0.011    0.000    0.707    0.007 crypy_py.py:30(find_files)
+  59220    0.011    0.000    0.011    0.000 {built-in method nt.fspath}
+  58916    0.009    0.000    0.009    0.000 {method 'lower' of 'str' objects}
+  42475/41627    0.008    0.000    0.008    0.000 {built-in method builtins.len}
+  566/283    0.006    0.000    0.016    0.000 sre_parse.py:475(_parse)
+  100    0.005    0.000    0.005    0.000 {method 'encrypt' of '_AES' objects}
+  6800    0.005    0.000    0.040    0.000 random.py:256(choice)
+  200    0.004    0.000    0.004    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+  1075302 function calls (1072475 primitive calls) in 2.115 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    1.182    0.006    1.182    0.006 {built-in method io.open}
+  100    0.172    0.002    1.424    0.014 crypy_py.py:335(encrypt_file)
+  100    0.133    0.001    0.133    0.001 {built-in method nt.remove}
+  29458    0.090    0.000    0.396    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.075    0.000    0.173    0.000 fnmatch.py:74(translate)
+  129382    0.051    0.000    0.094    0.000 re.py:252(escape)
+  300    0.050    0.000    0.050    0.000 {method 'write' of '_io.BufferedWriter' objects}
+  58916    0.050    0.000    0.080    0.000 ntpath.py:44(normcase)
+  253916    0.030    0.000    0.030    0.000 {built-in method builtins.isinstance}
+  129382    0.030    0.000    0.030    0.000 {method 'translate' of 'str' objects}
+  29458    0.030    0.000    0.506    0.000 fnmatch.py:19(fnmatch)
+  28843    0.027    0.000    0.288    0.000 fnmatch.py:38(_compile_pattern)
+  201    0.020    0.000    0.020    0.000 {built-in method nt.stat}
+  28843    0.020    0.000    0.074    0.000 re.py:271(_compile)
+  29458    0.019    0.000    0.019    0.000 {method 'match' of 're.Pattern' objects}
+  28843    0.011    0.000    0.085    0.000 re.py:232(compile)
+  101    0.011    0.000    0.520    0.005 crypy_py.py:30(find_files)
+  59117    0.010    0.000    0.010    0.000 {method 'replace' of 'str' objects}
+  566/283    0.009    0.000    0.027    0.000 sre_parse.py:475(_parse)
+  59220    0.008    0.000    0.008    0.000 {built-in method nt.fspath}
+  58916    0.006    0.000    0.006    0.000 {method 'lower' of 'str' objects}
+  100    0.006    0.000    0.006    0.000 {method 'encrypt' of '_AES' objects}
+  42475/41627    0.006    0.000    0.006    0.000 {built-in method builtins.len}
+  6800    0.006    0.000    0.012    0.000 random.py:256(choice)
+  5927    0.005    0.000    0.006    0.000 sre_parse.py:164(__getitem__)
+  200    0.005    0.000    0.005    0.000 {method 'read' of '_io.BufferedReader' objects}
+
+
+File sizes = 1000bytes ---------------
+
+  1075510 function calls (1072683 primitive calls) in 2.253 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    1.153    0.006    1.153    0.006 {built-in method io.open}
+  100    0.245    0.002    0.245    0.002 {built-in method nt.remove}
+  28843    0.124    0.000    0.274    0.000 fnmatch.py:74(translate)
+  201    0.088    0.000    0.088    0.000 {built-in method nt.stat}
+  100    0.083    0.001    1.251    0.013 crypy_py.py:335(encrypt_file)
+  129382    0.078    0.000    0.143    0.000 re.py:252(escape)
+  58916    0.066    0.000    0.115    0.000 ntpath.py:44(normcase)
+  28843    0.056    0.000    0.103    0.000 re.py:271(_compile)
+  253916    0.055    0.000    0.055    0.000 {built-in method builtins.isinstance}
+  129382    0.040    0.000    0.040    0.000 {method 'translate' of 'str' objects}
+  29458    0.037    0.000    0.485    0.000 fnmatch.py:64(fnmatchcase)
+  29458    0.034    0.000    0.634    0.000 fnmatch.py:19(fnmatch)
+  28843    0.033    0.000    0.427    0.000 fnmatch.py:38(_compile_pattern)
+  29458    0.022    0.000    0.022    0.000 {method 'match' of 're.Pattern' objects}
+  59117    0.015    0.000    0.015    0.000 {method 'replace' of 'str' objects}
+  566/283    0.012    0.000    0.021    0.000 sre_parse.py:475(_parse)
+  101    0.012    0.000    0.649    0.006 crypy_py.py:30(find_files)
+  28843    0.011    0.000    0.114    0.000 re.py:232(compile)
+  59220    0.010    0.000    0.010    0.000 {built-in method nt.fspath}
+  58916    0.009    0.000    0.009    0.000 {method 'lower' of 'str' objects}
+  42575/41727    0.009    0.000    0.009    0.000 {built-in method builtins.len}
+  6800    0.005    0.000    0.011    0.000 random.py:256(choice)
+  200    0.005    0.000    0.005    0.000 {method 'read' of '_io.BufferedReader' objects}
+  6800    0.004    0.000    0.006    0.000 random.py:224(_randbelow)
+  1    0.004    0.004    0.004    0.004 {built-in method nt.mkdir}
+  848/283    0.003    0.000    0.005    0.000 sre_compile.py:71(_compile)
+  200    0.003    0.000    0.010    0.000 {method 'join' of 'str' objects}
+  848/283    0.002    0.000    0.002    0.000 sre_parse.py:174(getwidth)
+  100    0.002    0.000    1.358    0.014 crypy_py.py:356(generate_file)
+  5927    0.002    0.000    0.003    0.000 sre_parse.py:164(__getitem__)
+  100    0.002    0.000    0.007    0.000 crypy_py.py:358(<listcomp>)
+  283    0.002    0.000    0.038    0.000 sre_compile.py:759(compile)
+  566/283    0.001    0.000    0.002    0.000 sre_compile.py:461(_get_literal_prefix)
+  3815    0.001    0.000    0.001    0.000 sre_parse.py:233(__next)
+  100    0.001    0.000    0.088    0.001 crypy_py.py:327(make_directory)
+  7006    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  566/283    0.001    0.000    0.022    0.000 sre_parse.py:417(_parse_sub)
+  283    0.001    0.000    0.024    0.000 sre_parse.py:919(parse)
+  2118    0.001    0.000    0.001    0.000 sre_parse.py:172(append)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  3700    0.001    0.000    0.007    0.000 crypy_py.py:354(<genexpr>)
+  283    0.001    0.000    0.006    0.000 sre_compile.py:536(_compile_info)
+  9295    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+  100    0.001    0.000    0.001    0.000 {built-in method Crypto.Cipher._AES.new}
+  201    0.001    0.000    0.001    0.000 ntpath.py:122(splitdrive)
+  2966    0.001    0.000    0.002    0.000 sre_parse.py:254(get)
+  100    0.001    0.000    0.001    0.000 {built-in method _struct.pack}
+  100    0.001    0.000    0.246    0.002 crypy_py.py:17(delete_file)
+  566    0.001    0.000    0.001    0.000 sre_parse.py:81(groups)
+  100    0.001    0.000    0.001    0.000 {method 'encode' of 'str' objects}
+  572    0.001    0.000    0.001    0.000 sre_parse.py:343(_escape)
+  283    0.001    0.000    0.001    0.000 enum.py:836(__and__)
+  100    0.001    0.000    0.001    0.000 {built-in method nt.urandom}
+  6800    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+  100    0.000    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  100    0.000    0.000    0.002    0.000 ntpath.py:75(join)
+  1979    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+  566    0.000    0.000    0.000    0.000 sre_compile.py:595(isstring)
+  848    0.000    0.000    0.000    0.000 sre_parse.py:111(__init__)
+  283    0.000    0.000    0.001    0.000 sre_parse.py:843(_parse_flags)
+  1412    0.000    0.000    0.000    0.000 sre_parse.py:160(__len__)
+  1414    0.000    0.000    0.001    0.000 sre_parse.py:249(match)
+  283    0.000    0.000    0.011    0.000 sre_compile.py:598(_code)
+  1131    0.000    0.000    0.000    0.000 sre_parse.py:286(tell)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075557 function calls (1072730 primitive calls) in 1.867 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.717    0.004    0.717    0.004 {built-in method io.open}
+  201    0.234    0.001    0.234    0.001 {built-in method nt.stat}
+  100    0.180    0.002    0.180    0.002 {built-in method nt.remove}
+  28843    0.113    0.000    0.301    0.000 fnmatch.py:74(translate)
+  129382    0.107    0.000    0.174    0.000 re.py:252(escape)
+  100    0.073    0.001    0.805    0.008 crypy_py.py:335(encrypt_file)
+  58916    0.066    0.000    0.110    0.000 ntpath.py:44(normcase)
+  253916    0.045    0.000    0.045    0.000 {built-in method builtins.isinstance}
+  129382    0.044    0.000    0.044    0.000 {method 'translate' of 'str' objects}
+  29458    0.042    0.000    0.617    0.000 fnmatch.py:19(fnmatch)
+  28843    0.037    0.000    0.413    0.000 fnmatch.py:38(_compile_pattern)
+  29458    0.032    0.000    0.465    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.024    0.000    0.057    0.000 re.py:271(_compile)
+  29458    0.020    0.000    0.020    0.000 {method 'match' of 're.Pattern' objects}
+  42575/41727    0.016    0.000    0.016    0.000 {built-in method builtins.len}
+  101    0.014    0.000    0.633    0.006 crypy_py.py:30(find_files)
+  59117    0.013    0.000    0.013    0.000 {method 'replace' of 'str' objects}
+  28843    0.013    0.000    0.070    0.000 re.py:232(compile)
+  59220    0.011    0.000    0.011    0.000 {built-in method nt.fspath}
+  58916    0.010    0.000    0.010    0.000 {method 'lower' of 'str' objects}
+  6800    0.006    0.000    0.009    0.000 random.py:224(_randbelow)
+  6800    0.005    0.000    0.015    0.000 random.py:256(choice)
+  566/283    0.005    0.000    0.012    0.000 sre_parse.py:475(_parse)
+  200    0.004    0.000    0.004    0.000 {method 'read' of '_io.BufferedReader' objects}
+  848/283    0.003    0.000    0.004    0.000 sre_compile.py:71(_compile)
+  3700    0.002    0.000    0.008    0.000 crypy_py.py:354(<genexpr>)
+  5927    0.002    0.000    0.002    0.000 sre_parse.py:164(__getitem__)
+  100    0.002    0.000    0.011    0.000 crypy_py.py:358(<listcomp>)
+  848/283    0.002    0.000    0.002    0.000 sre_parse.py:174(getwidth)
+  6800    0.001    0.000    0.001    0.000 {method 'bit_length' of 'int' objects}
+  3815    0.001    0.000    0.001    0.000 sre_parse.py:233(__next)
+  100    0.001    0.000    1.054    0.011 crypy_py.py:356(generate_file)
+  7053    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  283    0.001    0.000    0.005    0.000 sre_compile.py:536(_compile_info)
+  100    0.001    0.000    0.001    0.000 {built-in method nt.urandom}
+  566/283    0.001    0.000    0.012    0.000 sre_parse.py:417(_parse_sub)
+  283    0.001    0.000    0.024    0.000 sre_compile.py:759(compile)
+  100    0.001    0.000    0.002    0.000 blockalgo.py:136(__init__)
+  2966    0.001    0.000    0.002    0.000 sre_parse.py:254(get)
+  566/283    0.001    0.000    0.001    0.000 sre_compile.py:461(_get_literal_prefix)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  283    0.001    0.000    0.014    0.000 sre_parse.py:919(parse)
+  200    0.001    0.000    0.009    0.000 {method 'join' of 'str' objects}
+  9295    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+  1244    0.001    0.000    0.001    0.000 {method 'get' of 'dict' objects}
+  572    0.001    0.000    0.001    0.000 sre_parse.py:343(_escape)
+  283    0.001    0.000    0.001    0.000 enum.py:836(__and__)
+  2118    0.000    0.000    0.001    0.000 sre_parse.py:172(append)
+  1412    0.000    0.000    0.001    0.000 sre_parse.py:160(__len__)
+  1414    0.000    0.000    0.001    0.000 sre_parse.py:249(match)
+  283    0.000    0.000    0.001    0.000 sre_parse.py:843(_parse_flags)
+  1979    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+  100    0.000    0.000    0.001    0.000 ntpath.py:75(join)
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  1131    0.000    0.000    0.000    0.000 sre_parse.py:286(tell)
+  201    0.000    0.000    0.000    0.000 ntpath.py:122(splitdrive)
+  282    0.000    0.000    0.000    0.000 sre_compile.py:492(_get_charset_prefix)
+  283    0.000    0.000    0.009    0.000 sre_compile.py:598(_code)
+  100    0.000    0.000    0.180    0.002 crypy_py.py:17(delete_file)
+  566    0.000    0.000    0.001    0.000 enum.py:284(__call__)
+  283    0.000    0.000    0.000    0.000 sre_parse.py:224(__init__)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075512 function calls (1072685 primitive calls) in 1.745 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.738    0.004    0.738    0.004 {built-in method io.open}
+  28843    0.255    0.000    0.393    0.000 fnmatch.py:74(translate)
+  100    0.109    0.001    0.109    0.001 {built-in method nt.remove}
+  100    0.092    0.001    0.846    0.008 crypy_py.py:335(encrypt_file)
+  129382    0.072    0.000    0.133    0.000 re.py:252(escape)
+  58916    0.070    0.000    0.115    0.000 ntpath.py:44(normcase)
+  28843    0.057    0.000    0.533    0.000 fnmatch.py:38(_compile_pattern)
+  129382    0.043    0.000    0.043    0.000 {method 'translate' of 'str' objects}
+  253916    0.041    0.000    0.041    0.000 {built-in method builtins.isinstance}
+  29458    0.034    0.000    0.735    0.000 fnmatch.py:19(fnmatch)
+  29458    0.033    0.000    0.586    0.000 fnmatch.py:64(fnmatchcase)
+  201    0.031    0.000    0.031    0.000 {built-in method nt.stat}
+  28843    0.020    0.000    0.064    0.000 re.py:271(_compile)
+  29458    0.020    0.000    0.020    0.000 {method 'match' of 're.Pattern' objects}
+  59117    0.015    0.000    0.015    0.000 {method 'replace' of 'str' objects}
+  28843    0.015    0.000    0.079    0.000 re.py:232(compile)
+  101    0.011    0.000    0.747    0.007 crypy_py.py:30(find_files)
+  59220    0.011    0.000    0.011    0.000 {built-in method nt.fspath}
+  58916    0.010    0.000    0.010    0.000 {method 'lower' of 'str' objects}
+  566/283    0.008    0.000    0.017    0.000 sre_parse.py:475(_parse)
+  42575/41727    0.006    0.000    0.006    0.000 {built-in method builtins.len}
+  200    0.005    0.000    0.005    0.000 {method 'read' of '_io.BufferedReader' objects}
+  848/283    0.005    0.000    0.009    0.000 sre_compile.py:71(_compile)
+  6800    0.004    0.000    0.006    0.000 random.py:224(_randbelow)
+  6800    0.004    0.000    0.010    0.000 random.py:256(choice)
+  5927    0.003    0.000    0.004    0.000 sre_parse.py:164(__getitem__)
+  100    0.003    0.000    0.008    0.000 crypy_py.py:358(<listcomp>)
+  9295    0.002    0.000    0.002    0.000 {method 'append' of 'list' objects}
+  100    0.002    0.000    0.888    0.009 crypy_py.py:356(generate_file)
+  3700    0.002    0.000    0.007    0.000 crypy_py.py:354(<genexpr>)
+  848/283    0.002    0.000    0.003    0.000 sre_parse.py:174(getwidth)
+  3815    0.001    0.000    0.001    0.000 sre_parse.py:233(__next)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  1414    0.001    0.000    0.001    0.000 sre_parse.py:249(match)
+  2966    0.001    0.000    0.002    0.000 sre_parse.py:254(get)
+  1979    0.001    0.000    0.001    0.000 {built-in method builtins.min}
+  7008    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  283    0.001    0.000    0.034    0.000 sre_compile.py:759(compile)
+  100    0.001    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  566/283    0.001    0.000    0.017    0.000 sre_parse.py:417(_parse_sub)
+  283    0.001    0.000    0.006    0.000 sre_compile.py:536(_compile_info)
+  1131    0.001    0.000    0.001    0.000 sre_parse.py:286(tell)
+  1412    0.001    0.000    0.001    0.000 sre_parse.py:160(__len__)
+  200    0.001    0.000    0.007    0.000 {method 'join' of 'str' objects}
+  848    0.001    0.000    0.001    0.000 sre_compile.py:453(_get_iscased)
+  566/283    0.001    0.000    0.001    0.000 sre_compile.py:461(_get_literal_prefix)
+  283    0.001    0.000    0.018    0.000 sre_parse.py:919(parse)
+  6800    0.001    0.000    0.001    0.000 {method 'bit_length' of 'int' objects}
+  572    0.000    0.000    0.001    0.000 sre_parse.py:343(_escape)
+  283    0.000    0.000    0.001    0.000 enum.py:836(__and__)
+  2118    0.000    0.000    0.001    0.000 sre_parse.py:172(append)
+  566    0.000    0.000    0.001    0.000 enum.py:284(__call__)
+  100    0.000    0.000    0.000    0.000 {built-in method nt.urandom}
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  100    0.000    0.000    0.001    0.000 ntpath.py:75(join)
+  201    0.000    0.000    0.000    0.000 ntpath.py:122(splitdrive)
+  283    0.000    0.000    0.000    0.000 sre_parse.py:843(_parse_flags)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075532 function calls (1072705 primitive calls) in 2.067 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.605    0.003    0.605    0.003 {built-in method io.open}
+  100    0.369    0.004    0.369    0.004 {built-in method nt.remove}
+  201    0.212    0.001    0.212    0.001 {built-in method nt.stat}
+  28843    0.183    0.000    0.355    0.000 fnmatch.py:74(translate)
+  129382    0.108    0.000    0.167    0.000 re.py:252(escape)
+  253916    0.096    0.000    0.096    0.000 {built-in method builtins.isinstance}
+  58916    0.062    0.000    0.131    0.000 ntpath.py:44(normcase)
+  100    0.058    0.001    0.681    0.007 crypy_py.py:335(encrypt_file)
+  59220    0.041    0.000    0.041    0.000 {built-in method nt.fspath}
+  129382    0.040    0.000    0.040    0.000 {method 'translate' of 'str' objects}
+  28843    0.034    0.000    0.561    0.000 fnmatch.py:38(_compile_pattern)
+  29458    0.034    0.000    0.777    0.000 fnmatch.py:19(fnmatch)
+  29458    0.032    0.000    0.612    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.025    0.000    0.095    0.000 re.py:271(_compile)
+  28843    0.021    0.000    0.115    0.000 re.py:232(compile)
+  29458    0.019    0.000    0.019    0.000 {method 'match' of 're.Pattern' objects}
+  101    0.012    0.000    0.790    0.008 crypy_py.py:30(find_files)
+  59117    0.011    0.000    0.011    0.000 {method 'replace' of 'str' objects}
+  42575/41727    0.010    0.000    0.010    0.000 {built-in method builtins.len}
+  566/283    0.010    0.000    0.029    0.000 sre_parse.py:475(_parse)
+  58916    0.009    0.000    0.009    0.000 {method 'lower' of 'str' objects}
+  3815    0.007    0.000    0.007    0.000 sre_parse.py:233(__next)
+  5927    0.007    0.000    0.009    0.000 sre_parse.py:164(__getitem__)
+  848/283    0.007    0.000    0.013    0.000 sre_compile.py:71(_compile)
+  6800    0.005    0.000    0.016    0.000 random.py:256(choice)
+  6800    0.005    0.000    0.009    0.000 random.py:224(_randbelow)
+  200    0.004    0.000    0.004    0.000 {method 'read' of '_io.BufferedReader' objects}
+  9295    0.003    0.000    0.003    0.000 {method 'append' of 'list' objects}
+  7028    0.003    0.000    0.003    0.000 {method 'getrandbits' of '_random.Random' objects}
+  1    0.003    0.003    0.003    0.003 {built-in method nt.mkdir}
+  2966    0.002    0.000    0.005    0.000 sre_parse.py:254(get)
+  566/283    0.002    0.000    0.030    0.000 sre_parse.py:417(_parse_sub)
+  300    0.001    0.000    0.001    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075505 function calls (1072678 primitive calls) in 2.002 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.598    0.003    0.598    0.003 {built-in method io.open}
+  100    0.278    0.003    0.893    0.009 crypy_py.py:335(encrypt_file)
+  129382    0.235    0.000    0.294    0.000 re.py:252(escape)
+  100    0.233    0.002    0.233    0.002 {built-in method nt.remove}
+  28843    0.129    0.000    0.429    0.000 fnmatch.py:74(translate)
+  29458    0.066    0.000    0.799    0.000 fnmatch.py:19(fnmatch)
+  58916    0.062    0.000    0.110    0.000 ntpath.py:44(normcase)
+  253916    0.053    0.000    0.053    0.000 {built-in method builtins.isinstance}
+  201    0.043    0.000    0.043    0.000 {built-in method nt.stat}
+  28843    0.038    0.000    0.560    0.000 fnmatch.py:38(_compile_pattern)
+  29458    0.038    0.000    0.624    0.000 fnmatch.py:64(fnmatchcase)
+  129382    0.038    0.000    0.038    0.000 {method 'translate' of 'str' objects}
+  28843    0.026    0.000    0.067    0.000 re.py:271(_compile)
+  29458    0.025    0.000    0.025    0.000 {method 'match' of 're.Pattern' objects}
+  28843    0.015    0.000    0.082    0.000 re.py:232(compile)
+  101    0.014    0.000    0.816    0.008 crypy_py.py:30(find_files)
+  59117    0.013    0.000    0.013    0.000 {method 'replace' of 'str' objects}
+  59220    0.012    0.000    0.012    0.000 {built-in method nt.fspath}
+  58916    0.011    0.000    0.011    0.000 {method 'lower' of 'str' objects}
+  42575/41727    0.010    0.000    0.011    0.000 {built-in method builtins.len}
+  200    0.005    0.000    0.005    0.000 {method 'read' of '_io.BufferedReader' objects}
+  6800    0.005    0.000    0.012    0.000 random.py:256(choice)
+  566/283    0.005    0.000    0.017    0.000 sre_parse.py:475(_parse)
+  3815    0.004    0.000    0.004    0.000 sre_parse.py:233(__next)
+  848/283    0.003    0.000    0.005    0.000 sre_compile.py:71(_compile)
+  6800    0.003    0.000    0.006    0.000 random.py:224(_randbelow)
+  1    0.003    0.003    0.003    0.003 {built-in method nt.mkdir}
+  100    0.003    0.000    0.011    0.000 crypy_py.py:358(<listcomp>)
+  100    0.002    0.000    0.953    0.010 crypy_py.py:356(generate_file)
+  5927    0.002    0.000    0.002    0.000 sre_parse.py:164(__getitem__)
+  100    0.002    0.000    0.003    0.000 AES.py:61(new)
+  3700    0.002    0.000    0.006    0.000 crypy_py.py:354(<genexpr>)
+  1244    0.002    0.000    0.002    0.000 {method 'get' of 'dict' objects}
+  848/283    0.001    0.000    0.002    0.000 sre_parse.py:174(getwidth)
+  6800    0.001    0.000    0.001    0.000 {method 'bit_length' of 'int' objects}
+  566/283    0.001    0.000    0.001    0.000 sre_compile.py:461(_get_literal_prefix)
+  9295    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+  200    0.001    0.000    0.007    0.000 {method 'join' of 'str' objects}
+  7001    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  283    0.001    0.000    0.005    0.000 sre_compile.py:536(_compile_info)
+  283    0.001    0.000    0.031    0.000 sre_compile.py:759(compile)
+  1979    0.001    0.000    0.001    0.000 {built-in method builtins.min}
+  201    0.001    0.000    0.001    0.000 ntpath.py:122(splitdrive)
+  566/283    0.001    0.000    0.017    0.000 sre_parse.py:417(_parse_sub)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  2966    0.001    0.000    0.004    0.000 sre_parse.py:254(get)
+  572    0.001    0.000    0.002    0.000 sre_parse.py:343(_escape)
+  283    0.001    0.000    0.019    0.000 sre_parse.py:919(parse)
+  100    0.001    0.000    0.001    0.000 ntpath.py:75(join)
+  100    0.001    0.000    0.001    0.000 {built-in method nt.urandom}
+  283    0.000    0.000    0.001    0.000 enum.py:836(__and__)
+  2118    0.000    0.000    0.001    0.000 sre_parse.py:172(append)
+  283    0.000    0.000    0.003    0.000 sre_parse.py:843(_parse_flags)
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  100    0.000    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  283    0.000    0.000    0.011    0.000 sre_compile.py:598(_code)
+  1412    0.000    0.000    0.001    0.000 sre_parse.py:160(__len__)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+
+File sizes = 100bytes ---------------
+
+  1075533 function calls (1072706 primitive calls) in 1.836 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.571    0.003    0.571    0.003 {built-in method io.open}
+  100    0.241    0.002    0.241    0.002 {built-in method nt.remove}
+  6800    0.152    0.000    0.154    0.000 random.py:224(_randbelow)
+  129382    0.120    0.000    0.180    0.000 re.py:252(escape)
+  100    0.120    0.001    0.704    0.007 crypy_py.py:335(encrypt_file)
+  28843    0.085    0.000    0.272    0.000 fnmatch.py:74(translate)
+  201    0.082    0.000    0.082    0.000 {built-in method nt.stat}
+  58916    0.066    0.000    0.117    0.000 ntpath.py:44(normcase)
+  253916    0.050    0.000    0.050    0.000 {built-in method builtins.isinstance}
+  29458    0.048    0.000    0.048    0.000 {method 'match' of 're.Pattern' objects}
+  129382    0.038    0.000    0.038    0.000 {method 'translate' of 'str' objects}
+  29458    0.036    0.000    0.630    0.000 fnmatch.py:19(fnmatch)
+  29458    0.034    0.000    0.478    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.034    0.000    0.396    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.019    0.000    0.070    0.000 re.py:271(_compile)
+  101    0.014    0.000    0.647    0.006 crypy_py.py:30(find_files)
+  58916    0.014    0.000    0.014    0.000 {method 'lower' of 'str' objects}
+  59117    0.014    0.000    0.014    0.000 {method 'replace' of 'str' objects}
+  28843    0.013    0.000    0.083    0.000 re.py:232(compile)
+  59220    0.012    0.000    0.012    0.000 {built-in method nt.fspath}
+  42575/41727    0.011    0.000    0.011    0.000 {built-in method builtins.len}
+  566/283    0.009    0.000    0.019    0.000 sre_parse.py:475(_parse)
+  848/283    0.005    0.000    0.009    0.000 sre_compile.py:71(_compile)
+  200    0.004    0.000    0.004    0.000 {method 'read' of '_io.BufferedReader' objects}
+  6800    0.004    0.000    0.159    0.000 random.py:256(choice)
+   1    0.004    0.004    0.004    0.004 {built-in method nt.mkdir}
+  5927    0.002    0.000    0.004    0.000 sre_parse.py:164(__getitem__)
+  100    0.002    0.000    0.948    0.009 crypy_py.py:356(generate_file)
+  848/283    0.002    0.000    0.003    0.000 sre_parse.py:174(getwidth)
+  3815    0.002    0.000    0.002    0.000 sre_parse.py:233(__next)
+  283    0.002    0.000    0.006    0.000 sre_compile.py:536(_compile_info)
+  9295    0.002    0.000    0.002    0.000 {method 'append' of 'list' objects}
+  283    0.001    0.000    0.040    0.000 sre_compile.py:759(compile)
+  100    0.001    0.000    0.007    0.000 crypy_py.py:358(<listcomp>)
+  566/283    0.001    0.000    0.021    0.000 sre_parse.py:417(_parse_sub)
+  566/283    0.001    0.000    0.001    0.000 sre_compile.py:461(_get_literal_prefix)
+  6800    0.001    0.000    0.001    0.000 {method 'bit_length' of 'int' objects}
+  3700    0.001    0.000    0.153    0.000 crypy_py.py:354(<genexpr>)
+  2966    0.001    0.000    0.002    0.000 sre_parse.py:254(get)
+  572    0.001    0.000    0.001    0.000 sre_parse.py:343(_escape)
+  7029    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  283    0.001    0.000    0.015    0.000 sre_compile.py:598(_code)
+  201    0.001    0.000    0.001    0.000 ntpath.py:122(splitdrive)
+  1979    0.001    0.000    0.001    0.000 {built-in method builtins.min}
+  282    0.001    0.000    0.001    0.000 sre_compile.py:423(_simple)
+  200    0.001    0.000    0.154    0.001 {method 'join' of 'str' objects}
+  283    0.001    0.000    0.022    0.000 sre_parse.py:919(parse)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  283    0.001    0.000    0.001    0.000 sre_parse.py:903(fix_flags)
+  2118    0.000    0.000    0.001    0.000 sre_parse.py:172(append)
+  283    0.000    0.000    0.001    0.000 enum.py:836(__and__)
+  100    0.000    0.000    0.000    0.000 {built-in method nt.urandom}
+  100    0.000    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  100    0.000    0.000    0.001    0.000 ntpath.py:75(join)
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  283    0.000    0.000    0.001    0.000 sre_parse.py:843(_parse_flags)
+  1414    0.000    0.000    0.001    0.000 sre_parse.py:249(match)
+  1131    0.000    0.000    0.001    0.000 sre_parse.py:286(tell)
+  1412    0.000    0.000    0.001    0.000 sre_parse.py:160(__len__)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075537 function calls (1072710 primitive calls) in 1.737 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.783    0.004    0.783    0.004 {built-in method io.open}
+  100    0.157    0.002    0.157    0.002 {built-in method nt.remove}
+  100    0.122    0.001    0.949    0.009 crypy_py.py:335(encrypt_file)
+  28843    0.113    0.000    0.238    0.000 fnmatch.py:74(translate)
+  201    0.087    0.000    0.087    0.000 {built-in method nt.stat}
+  129382    0.066    0.000    0.120    0.000 re.py:252(escape)
+  58916    0.058    0.000    0.104    0.000 ntpath.py:44(normcase)
+  253916    0.037    0.000    0.037    0.000 {built-in method builtins.isinstance}
+  129382    0.037    0.000    0.037    0.000 {method 'translate' of 'str' objects}
+  29458    0.033    0.000    0.518    0.000 fnmatch.py:19(fnmatch)
+  100    0.030    0.000    0.030    0.000 {built-in method nt.urandom}
+  29458    0.028    0.000    0.381    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.027    0.000    0.335    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.020    0.000    0.055    0.000 re.py:271(_compile)
+  29458    0.018    0.000    0.018    0.000 {method 'match' of 're.Pattern' objects}
+  59117    0.014    0.000    0.014    0.000 {method 'replace' of 'str' objects}
+  101    0.012    0.000    0.532    0.005 crypy_py.py:30(find_files)
+  59220    0.011    0.000    0.011    0.000 {built-in method nt.fspath}
+  58916    0.011    0.000    0.011    0.000 {method 'lower' of 'str' objects}
+  28843    0.011    0.000    0.066    0.000 re.py:232(compile)
+  42575/41727    0.006    0.000    0.006    0.000 {built-in method builtins.len}
+  566/283    0.005    0.000    0.013    0.000 sre_parse.py:475(_parse)
+  200    0.005    0.000    0.005    0.000 {method 'read' of '_io.BufferedReader' objects}
+  6800    0.005    0.000    0.010    0.000 random.py:256(choice)
+  6800    0.004    0.000    0.005    0.000 random.py:224(_randbelow)
+  848/283    0.003    0.000    0.005    0.000 sre_compile.py:71(_compile)
+  100    0.003    0.000    1.048    0.010 crypy_py.py:356(generate_file)
+  848/283    0.002    0.000    0.003    0.000 sre_parse.py:174(getwidth)
+  100    0.002    0.000    0.007    0.000 crypy_py.py:358(<listcomp>)
+  566/283    0.002    0.000    0.014    0.000 sre_parse.py:417(_parse_sub)
+  5927    0.002    0.000    0.002    0.000 sre_parse.py:164(__getitem__)
+  200    0.001    0.000    0.008    0.000 {method 'join' of 'str' objects}
+  3700    0.001    0.000    0.006    0.000 crypy_py.py:354(<genexpr>)
+  3815    0.001    0.000    0.001    0.000 sre_parse.py:233(__next)
+  2966    0.001    0.000    0.002    0.000 sre_parse.py:254(get)
+  283    0.001    0.000    0.027    0.000 sre_compile.py:759(compile)
+  283    0.001    0.000    0.005    0.000 sre_compile.py:536(_compile_info)
+  7033    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  566/283    0.001    0.000    0.001    0.000 sre_compile.py:461(_get_literal_prefix)
+  9295    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  283    0.001    0.000    0.015    0.000 sre_parse.py:919(parse)
+  283    0.001    0.000    0.001    0.000 enum.py:836(__and__)
+  572    0.001    0.000    0.001    0.000 sre_parse.py:343(_escape)
+  6800    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+  2118    0.000    0.000    0.001    0.000 sre_parse.py:172(append)
+  283    0.000    0.000    0.001    0.000 sre_parse.py:843(_parse_flags)
+  100    0.000    0.000    0.001    0.000 ntpath.py:75(join)
+  1979    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  201    0.000    0.000    0.000    0.000 ntpath.py:122(splitdrive)
+  1414    0.000    0.000    0.001    0.000 sre_parse.py:249(match)
+  283    0.000    0.000    0.010    0.000 sre_compile.py:598(_code)
+  100    0.000    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  282    0.000    0.000    0.000    0.000 sre_compile.py:492(_get_charset_prefix)
+  1131    0.000    0.000    0.000    0.000 sre_parse.py:286(tell)
+  566    0.000    0.000    0.001    0.000 enum.py:284(__call__)
+  283    0.000    0.000    0.000    0.000 {built-in method _sre.compile}
+  100    0.000    0.000    0.157    0.002 crypy_py.py:17(delete_file)
+  1412    0.000    0.000    0.000    0.000 sre_parse.py:160(__len__)
+  283    0.000    0.000    0.000    0.000 sre_parse.py:224(__init__)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075546 function calls (1072719 primitive calls) in 2.007 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.838    0.004    0.838    0.004 {built-in method io.open}
+  129382    0.224    0.000    0.306    0.000 re.py:252(escape)
+  100    0.136    0.001    0.136    0.001 {built-in method nt.remove}
+  100    0.110    0.001    0.966    0.010 crypy_py.py:335(encrypt_file)
+  201    0.106    0.001    0.106    0.001 {built-in method nt.stat}
+  28843    0.097    0.000    0.411    0.000 fnmatch.py:74(translate)
+  58916    0.081    0.000    0.135    0.000 ntpath.py:44(normcase)
+  129382    0.059    0.000    0.059    0.000 {method 'translate' of 'str' objects}
+  253916    0.050    0.000    0.050    0.000 {built-in method builtins.isinstance}
+  29458    0.038    0.000    0.763    0.000 fnmatch.py:19(fnmatch)
+  29458    0.033    0.000    0.589    0.000 fnmatch.py:64(fnmatchcase)
+  28843    0.031    0.000    0.533    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.025    0.000    0.071    0.000 re.py:271(_compile)
+  29458    0.023    0.000    0.023    0.000 {method 'match' of 're.Pattern' objects}
+  59117    0.017    0.000    0.017    0.000 {method 'replace' of 'str' objects}
+  28843    0.017    0.000    0.087    0.000 re.py:232(compile)
+  58916    0.016    0.000    0.016    0.000 {method 'lower' of 'str' objects}
+  101    0.016    0.000    0.781    0.008 crypy_py.py:30(find_files)
+  42575/41727    0.014    0.000    0.014    0.000 {built-in method builtins.len}
+  59220    0.009    0.000    0.009    0.000 {built-in method nt.fspath}
+  200    0.007    0.000    0.007    0.000 {method 'read' of '_io.BufferedReader' objects}
+  566/283    0.006    0.000    0.019    0.000 sre_parse.py:475(_parse)
+  1    0.005    0.005    0.005    0.005 {built-in method nt.mkdir}
+  6800    0.005    0.000    0.014    0.000 random.py:256(choice)
+  6800    0.005    0.000    0.008    0.000 random.py:224(_randbelow)
+  5927    0.003    0.000    0.004    0.000 sre_parse.py:164(__getitem__)
+  848/283    0.003    0.000    0.006    0.000 sre_compile.py:71(_compile)
+  848/283    0.002    0.000    0.003    0.000 sre_parse.py:174(getwidth)
+  3700    0.002    0.000    0.009    0.000 crypy_py.py:354(<genexpr>)
+  100    0.002    0.000    1.090    0.011 crypy_py.py:356(generate_file)
+  1244    0.002    0.000    0.002    0.000 {method 'get' of 'dict' objects}
+  6800    0.001    0.000    0.001    0.000 {method 'bit_length' of 'int' objects}
+  100    0.001    0.000    0.009    0.000 crypy_py.py:358(<listcomp>)
+  3815    0.001    0.000    0.001    0.000 sre_parse.py:233(__next)
+  7042    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  566/283    0.001    0.000    0.001    0.000 sre_compile.py:461(_get_literal_prefix)
+  9295    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+  2118    0.001    0.000    0.002    0.000 sre_parse.py:172(append)
+  283    0.001    0.000    0.022    0.000 sre_parse.py:919(parse)
+  283    0.001    0.000    0.006    0.000 sre_compile.py:536(_compile_info)
+  283    0.001    0.000    0.036    0.000 sre_compile.py:759(compile)
+  566/283    0.001    0.000    0.020    0.000 sre_parse.py:417(_parse_sub)
+  2966    0.001    0.000    0.002    0.000 sre_parse.py:254(get)
+  200    0.001    0.000    0.009    0.000 {method 'join' of 'str' objects}
+  100    0.001    0.000    0.002    0.000 AES.py:61(new)
+  566    0.001    0.000    0.001    0.000 sre_compile.py:595(isstring)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  283    0.001    0.000    0.001    0.000 enum.py:836(__and__)
+  572    0.001    0.000    0.002    0.000 sre_parse.py:343(_escape)
+  201    0.000    0.000    0.001    0.000 ntpath.py:122(splitdrive)
+  100    0.000    0.000    0.001    0.000 ntpath.py:75(join)
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  100    0.000    0.000    0.000    0.000 {built-in method nt.urandom}
+  1979    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+  100    0.000    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  100    0.000    0.000    0.000    0.000 {built-in method _struct.pack}
+  283    0.000    0.000    0.000    0.000 sre_parse.py:843(_parse_flags)
+  283    0.000    0.000    0.012    0.000 sre_compile.py:598(_code)
+  1414    0.000    0.000    0.001    0.000 sre_parse.py:249(match)
+  282    0.000    0.000    0.000    0.000 sre_compile.py:492(_get_charset_prefix)
+  1131    0.000    0.000    0.000    0.000 sre_parse.py:286(tell)
+  1412    0.000    0.000    0.005    0.000 sre_parse.py:160(__len__)
+  104    0.000    0.000    0.000    0.000 {built-in method builtins.next}
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075529 function calls (1072702 primitive calls) in 1.847 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.616    0.003    0.616    0.003 {built-in method io.open}
+  253916    0.252    0.000    0.252    0.000 {built-in method builtins.isinstance}
+  100    0.158    0.002    0.158    0.002 {built-in method nt.remove}
+  201    0.134    0.001    0.134    0.001 {built-in method nt.stat}
+  28843    0.089    0.000    0.464    0.000 fnmatch.py:74(translate)
+  58916    0.083    0.000    0.133    0.000 ntpath.py:44(normcase)
+  129382    0.077    0.000    0.369    0.000 re.py:252(escape)
+  129382    0.066    0.000    0.066    0.000 {method 'translate' of 'str' objects}
+  100    0.059    0.001    0.689    0.007 crypy_py.py:335(encrypt_file)
+  29458    0.043    0.000    0.666    0.000 fnmatch.py:64(fnmatchcase)
+  29458    0.033    0.000    0.833    0.000 fnmatch.py:19(fnmatch)
+  283    0.033    0.000    0.033    0.000 {built-in method _sre.compile}
+  28843    0.029    0.000    0.606    0.000 fnmatch.py:38(_compile_pattern)
+  28843    0.024    0.000    0.096    0.000 re.py:271(_compile)
+  29458    0.017    0.000    0.017    0.000 {method 'match' of 're.Pattern' objects}
+  58916    0.015    0.000    0.015    0.000 {method 'lower' of 'str' objects}
+  28843    0.013    0.000    0.108    0.000 re.py:232(compile)
+  59117    0.012    0.000    0.012    0.000 {method 'replace' of 'str' objects}
+  101    0.011    0.000    0.846    0.008 crypy_py.py:30(find_files)
+  59220    0.011    0.000    0.011    0.000 {built-in method nt.fspath}
+  42575/41727    0.009    0.000    0.009    0.000 {built-in method builtins.len}
+  6800    0.008    0.000    0.014    0.000 random.py:256(choice)
+  566/283    0.005    0.000    0.015    0.000 sre_parse.py:475(_parse)
+  1    0.005    0.005    0.005    0.005 {built-in method nt.mkdir}
+  200    0.004    0.000    0.004    0.000 {method 'read' of '_io.BufferedReader' objects}
+  6800    0.004    0.000    0.005    0.000 random.py:224(_randbelow)
+  848/283    0.003    0.000    0.006    0.000 sre_compile.py:71(_compile)
+  9295    0.002    0.000    0.002    0.000 {method 'append' of 'list' objects}
+  3815    0.002    0.000    0.002    0.000 sre_parse.py:233(__next)
+  566/283    0.002    0.000    0.016    0.000 sre_parse.py:417(_parse_sub)
+  5927    0.002    0.000    0.003    0.000 sre_parse.py:164(__getitem__)
+  100    0.002    0.000    0.842    0.008 crypy_py.py:356(generate_file)
+  100    0.002    0.000    0.008    0.000 crypy_py.py:358(<listcomp>)
+  848/283    0.002    0.000    0.002    0.000 sre_parse.py:174(getwidth)
+  283    0.001    0.000    0.005    0.000 sre_compile.py:536(_compile_info)
+  200    0.001    0.000    0.009    0.000 {method 'join' of 'str' objects}
+  283    0.001    0.000    0.063    0.000 sre_compile.py:759(compile)
+  2966    0.001    0.000    0.003    0.000 sre_parse.py:254(get)
+  7025    0.001    0.000    0.001    0.000 {method 'getrandbits' of '_random.Random' objects}
+  100    0.001    0.000    0.001    0.000 ntpath.py:75(join)
+  3700    0.001    0.000    0.008    0.000 crypy_py.py:354(<genexpr>)
+  566/283    0.001    0.000    0.001    0.000 sre_compile.py:461(_get_literal_prefix)
+  2118    0.001    0.000    0.001    0.000 sre_parse.py:172(append)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  283    0.001    0.000    0.018    0.000 sre_parse.py:919(parse)
+  283    0.001    0.000    0.002    0.000 enum.py:836(__and__)
+  101    0.001    0.000    0.128    0.001 genericpath.py:16(exists)
+  572    0.001    0.000    0.001    0.000 sre_parse.py:343(_escape)
+  1979    0.001    0.000    0.001    0.000 {built-in method builtins.min}
+  283    0.001    0.000    0.001    0.000 sre_parse.py:843(_parse_flags)
+  6800    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+  1414    0.000    0.000    0.001    0.000 sre_parse.py:249(match)
+  848    0.000    0.000    0.000    0.000 sre_compile.py:65(_combine_flags)
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  100    0.000    0.000    0.000    0.000 {built-in method nt.urandom}
+  1412    0.000    0.000    0.001    0.000 sre_parse.py:160(__len__)
+  1131    0.000    0.000    0.000    0.000 sre_parse.py:286(tell)
+  201    0.000    0.000    0.000    0.000 ntpath.py:122(splitdrive)
+  283    0.000    0.000    0.011    0.000 sre_compile.py:598(_code)
+  100    0.000    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  282    0.000    0.000    0.000    0.000 sre_compile.py:492(_get_charset_prefix)
+  1244    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+  566    0.000    0.000    0.001    0.000 enum.py:284(__call__)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+
+  1075534 function calls (1072707 primitive calls) in 1.832 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  201    0.875    0.004    0.875    0.004 {built-in method io.open}
+  100    0.125    0.001    0.125    0.001 {built-in method nt.remove}
+  129382    0.101    0.000    0.161    0.000 re.py:252(escape)
+  201    0.098    0.000    0.098    0.000 {built-in method nt.stat}
+  28843    0.090    0.000    0.258    0.000 fnmatch.py:74(translate)
+  58916    0.073    0.000    0.123    0.000 ntpath.py:44(normcase)
+  253916    0.069    0.000    0.069    0.000 {built-in method builtins.isinstance}
+  100    0.059    0.001    0.950    0.010 crypy_py.py:335(encrypt_file)
+  29458    0.037    0.000    0.469    0.000 fnmatch.py:64(fnmatchcase)
+  129382    0.037    0.000    0.037    0.000 {method 'translate' of 'str' objects}
+  28843    0.036    0.000    0.412    0.000 fnmatch.py:38(_compile_pattern)
+  29458    0.035    0.000    0.627    0.000 fnmatch.py:19(fnmatch)
+  28843    0.023    0.000    0.095    0.000 re.py:271(_compile)
+  28843    0.021    0.000    0.116    0.000 re.py:232(compile)
+  29458    0.019    0.000    0.019    0.000 {method 'match' of 're.Pattern' objects}
+  59117    0.015    0.000    0.015    0.000 {method 'replace' of 'str' objects}
+  58916    0.013    0.000    0.013    0.000 {method 'lower' of 'str' objects}
+  59220    0.010    0.000    0.010    0.000 {built-in method nt.fspath}
+  101    0.010    0.000    0.640    0.006 crypy_py.py:30(find_files)
+  42575/41727    0.009    0.000    0.010    0.000 {built-in method builtins.len}
+  566/283    0.007    0.000    0.045    0.000 sre_parse.py:475(_parse)
+  200    0.006    0.000    0.006    0.000 {method 'read' of '_io.BufferedReader' objects}
+  5927    0.005    0.000    0.029    0.000 sre_parse.py:164(__getitem__)
+  1    0.005    0.005    0.005    0.005 {built-in method nt.mkdir}
+  6800    0.005    0.000    0.013    0.000 random.py:256(choice)
+  6800    0.004    0.000    0.008    0.000 random.py:224(_randbelow)
+  848/283    0.004    0.000    0.010    0.000 sre_compile.py:71(_compile)
+  3700    0.003    0.000    0.010    0.000 crypy_py.py:354(<genexpr>)
+  3815    0.002    0.000    0.002    0.000 sre_parse.py:233(__next)
+  848/283    0.002    0.000    0.002    0.000 sre_parse.py:174(getwidth)
+  1414    0.002    0.000    0.002    0.000 sre_parse.py:249(match)
+  2966    0.002    0.000    0.004    0.000 sre_parse.py:254(get)
+  9295    0.002    0.000    0.002    0.000 {method 'append' of 'list' objects}
+  7030    0.002    0.000    0.002    0.000 {method 'getrandbits' of '_random.Random' objects}
+  100    0.002    0.000    1.067    0.011 crypy_py.py:356(generate_file)
+  6800    0.001    0.000    0.001    0.000 {method 'bit_length' of 'int' objects}
+  572    0.001    0.000    0.001    0.000 sre_parse.py:343(_escape)
+  100    0.001    0.000    0.007    0.000 crypy_py.py:358(<listcomp>)
+  2118    0.001    0.000    0.002    0.000 sre_parse.py:172(append)
+  283    0.001    0.000    0.065    0.000 sre_compile.py:759(compile)
+  1412    0.001    0.000    0.001    0.000 sre_parse.py:160(__len__)
+  100    0.001    0.000    0.002    0.000 ntpath.py:75(join)
+  566/283    0.001    0.000    0.002    0.000 sre_compile.py:461(_get_literal_prefix)
+  201    0.001    0.000    0.001    0.000 ntpath.py:122(splitdrive)
+  100    0.001    0.000    0.097    0.001 crypy_py.py:327(make_directory)
+  566/283    0.001    0.000    0.046    0.000 sre_parse.py:417(_parse_sub)
+  1131    0.001    0.000    0.001    0.000 sre_parse.py:286(tell)
+  283    0.001    0.000    0.016    0.000 sre_compile.py:598(_code)
+  100    0.001    0.000    0.001    0.000 {built-in method nt.urandom}
+  283    0.001    0.000    0.005    0.000 sre_compile.py:536(_compile_info)
+  100    0.001    0.000    0.001    0.000 {method 'encrypt' of '_AES' objects}
+  200    0.001    0.000    0.011    0.000 {method 'join' of 'str' objects}
+  566    0.001    0.000    0.001    0.000 enum.py:526(__new__)
+  848    0.001    0.000    0.001    0.000 sre_compile.py:65(_combine_flags)
+  1270    0.001    0.000    0.001    0.000 {built-in method builtins.ord}
+  283    0.001    0.000    0.048    0.000 sre_parse.py:919(parse)
+  283    0.000    0.000    0.001    0.000 enum.py:836(__and__)
+  100    0.000    0.000    0.001    0.000 blockalgo.py:136(__init__)
+  100    0.000    0.000    0.000    0.000 {built-in method Crypto.Cipher._AES.new}
+  1979    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+  283    0.000    0.000    0.000    0.000 sre_parse.py:843(_parse_flags)
+  300    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}

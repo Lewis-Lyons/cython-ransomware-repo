@@ -1,0 +1,33 @@
+# Average Function Times Calculations (10000 Files)
+
+File sizes = 10000000bytes, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 1708.7896 = 100%
+
+File sizes = 1000000bytes, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 363.5588 = 100%
+
+File sizes = 100000bytes, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 205.1098 = 100%
+
+File sizes = 10000bytes, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 184.2476 = 100%
+
+File sizes = 1000bytes, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 93.2236 = 100%
+
+File sizes = 100bytes, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 89.6728 = 100%
+
+File sizes = 10bytes, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 87.3790 = 100%
+
+File sizes = 1byte, 10000files ---------------
+
+  Average Time For Function Calls To Complete = 70.9646 = 100%

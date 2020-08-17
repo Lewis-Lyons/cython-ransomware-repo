@@ -1,0 +1,137 @@
+Open & Read Experiment Results
+
+Pure Python Results
+
+test1
+
+50001 function calls in 82.630 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000   41.018    0.004   41.018    0.004 {method 'read' of '_io.BufferedReader' objects}
+  10000   29.630    0.003   29.630    0.003 {method 'write' of '_io.BufferedWriter' objects}
+  20000   11.394    0.001   11.394    0.001 {built-in method io.open}
+  10000    0.587    0.000   82.630    0.008 python_only _read_test:8(py_read_file)
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+test2
+
+50001 function calls in 84.028 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000   41.738    0.004   41.738    0.004 {method 'read' of '_io.BufferedReader' objects}
+  10000   30.058    0.003   30.058    0.003 {method 'write' of '_io.BufferedWriter' objects}
+  20000   11.629    0.001   11.629    0.001 {built-in method io.open}
+  10000    0.603    0.000   84.028    0.008 python_only _read_test:8(py_read_file)
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+test3
+
+50001 function calls in 83.208 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000   41.265    0.004   41.265    0.004 {method 'read' of '_io.BufferedReader' objects}
+  10000   29.857    0.003   29.857    0.003 {method 'write' of '_io.BufferedWriter' objects}
+  20000   11.507    0.001   11.507    0.001 {built-in method io.open}
+  10000    0.579    0.000   83.208    0.008 python_only _read_test:8(py_read_file)
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+test4
+
+50001 function calls in 84.337 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000   42.037    0.004   42.037    0.004 {method 'read' of '_io.BufferedReader' objects}
+  10000   29.800    0.003   29.800    0.003 {method 'write' of '_io.BufferedWriter' objects}
+  20000   11.894    0.001   11.894    0.001 {built-in method io.open}
+  10000    0.606    0.000   84.337    0.008 python_only _read_test:8(py_read_file)
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+test5
+
+50001 function calls in 84.211 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000   42.201    0.004   42.201    0.004 {method 'read' of '_io.BufferedReader' objects}
+  10000   29.808    0.003   29.808    0.003 {method 'write' of '_io.BufferedWriter' objects}
+  20000   11.602    0.001   11.602    0.001 {built-in method io.open}
+  10000    0.600    0.000   84.211    0.008 python_only _read_test:8(py_read_file)
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+Pure Python Results Average = 83.683
+
+Cython Results
+
+test1
+
+400001 function calls in 83.687 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000    42.838   0.004   42.838   0.004  {method 'write' of '_io.BufferedWriter' objects}
+  10000    28.890   0.003   28.890   0.003  {method 'read_in_file' of 'cythonRead_cy.CyReadFile' objects}
+  10000    5.944   0.001    5.944    0.001  {built-in method io.open}
+  10000    5.925   0.001    5.925    0.001  {method 'open_file' of 'cythonRead_cy.CyReadFile' objects}
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+test2
+
+400001 function calls in 80.882 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000    43.138   0.004   43.138   0.004  {method 'write' of '_io.BufferedWriter' objects}
+  10000    26.721   0.003   26.721   0.003  {method 'read_in_file' of 'cythonRead_cy.CyReadFile' objects}
+  10000    5.722    0.001   5.722    0.001  {built-in method io.open}
+  10000    5.301    0.001   5.301    0.001  {method 'open_file' of 'cythonRead_cy.CyReadFile' objects}
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+test3
+
+400001 function calls in 81.495 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000    41.146   0.004   41.146   0.004  {method 'write' of '_io.BufferedWriter' objects}
+  10000    28.366   0.003   28.366   0.003  {method 'read_in_file' of 'cythonRead_cy.CyReadFile' objects}
+  10000    5.624    0.001   5.624    0.001  {built-in method io.open}
+  10000    6.389    0.001   6.389    0.001  {method 'open_file' of 'cythonRead_cy.CyReadFile' objects}
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+test4
+
+400001 function calls in 81.425 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000    42.669   0.004   42.669   0.004  {method 'write' of '_io.BufferedWriter' objects}
+  10000    27.990   0.003   27.990   0.003  {method 'read_in_file' of 'cythonRead_cy.CyReadFile' objects}
+  10000    5.029   0.001    5.029    0.001  {built-in method io.open}
+  10000    5.737   0.001    5.737    0.001  {method 'open_file' of 'cythonRead_cy.CyReadFile' objects}
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+test5
+
+400001 function calls in 81.314 seconds
+
+  Ordered by: internal time
+
+  ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  10000    40.647   0.004   40.647   0.004  {method 'write' of '_io.BufferedWriter' objects}
+  10000    29.505   0.003   29.505   0.003  {method 'read_in_file' of 'cythonRead_cy.CyReadFile' objects}
+  10000    5.852   0.001    5.852    0.001  {built-in method io.open}
+  10000    5.310   0.001    5.310    0.001  {method 'open_file' of 'cythonRead_cy.CyReadFile' objects}
+  1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+Cython Results Average = 81.761

@@ -1,0 +1,20 @@
+# Python only read file test
+import cProfile
+
+
+pr = cProfile.Profile()
+pr.enable()
+
+def py_read_file():
+    file1 = open("file1.txt", 'rb')
+    file_write = open("test_file.txt", 'wb')
+    file1 = file1.read()
+    file_write.write(file1)
+
+x = 0
+while x < 10000:
+    py_read_file()
+    x+=1
+
+pr.disable()
+pr.print_stats(sort='time')
