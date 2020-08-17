@@ -1,6 +1,6 @@
 # Cython Ransomware
 
-It is recommended that you read the Cython_Ransomware_Report pdf prior in order to more easily understand this code base.
+It is recommended that you read the Cython_Ransomware_Report pdf first in order to more easily understand this code base.
 
 # !!!!Attention!!!!
 
