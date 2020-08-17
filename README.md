@@ -1,8 +1,10 @@
 # Cython Ransomware
 
+It is recommended that you read the Cython_Ransomware_Report pdf prior in order to more easily understand this code base.
+
 # !!!!Attention!!!!
 
-This repo contains files which are potentially dangerous. Dowlnoad and/or run these files  at your own risk. Please ensure you do so in a secure environment.
+This repo contains files which are potentially dangerous. Download and/or run these files  at your own risk. Please ensure you do so in a secure environment.
 
 # Project
 
